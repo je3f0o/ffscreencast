@@ -1,6 +1,6 @@
 # [English] jeefo's note :
 ## Motivation
-It is just a forked bash script. Reason why I fork this script? is "I just want to do same thing for Screenrecord with audio channel on my MacBook's ITERM2 + tmux terminal". But I don't want to use this version. Because I want to learn this and convert nodejs version. This way I can very easy to update or edit later. Maybe just a some kind of challenge yourself.
+It is just a forked bash script. Reason why I fork this script? is "I just want to do same thing for Screenrecord with audio channel on my MacBook's ITERM2 + tmux terminal". But I don't want to use this version. Because I want to learn this and convert nodejs version. This way I can very easy to update or edit later. Maybe just a some kind of challenge myselft.
 # [Монгол] jeefo-ийн тэмдэглэгээ.
 ## Урам авч энэ програмийг хийгчдийн нэг нь болохыг хүссэн шалтгаан.
 Урам авч энэ прожектийг хуулж авсан шалтгаан нь хулгай хийх гэсэн юм биш шүү.
